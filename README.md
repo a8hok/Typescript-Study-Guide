@@ -12,6 +12,7 @@
 
 ## Typescript ReactJS
 - [https://thisweekinreact.com/newsletter/124](https://thisweekinreact.com/newsletter/124)<br>
+- [https://pmbanugo.me/using-typescript-in-react-part-1]()https://pmbanugo.me/using-typescript-in-react-part-1<br>
 
 
 ## Typescript Trips and Tricks
