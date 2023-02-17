@@ -17,5 +17,5 @@
 ## Typescript best practices
 
 ## Typescript General
-- []()<br>
+- [https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)<br>
 
