@@ -1,6 +1,7 @@
 # Typescript-Preparation
 
 ## Typescript Learn
+- [https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)<br>
 
 ## Typescript Resource
 
