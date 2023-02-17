@@ -21,3 +21,6 @@
 
 ## Typescript Github
 - [https://codesandbox.io/s/github/ib-sundeep/amazon-clone/tree/master?file=/src/cart-context.js:1964-1972](https://codesandbox.io/s/github/ib-sundeep/amazon-clone/tree/master?file=/src/cart-context.js:1964-1972)<br>
+
+## Typescript error handling
+- [https://engineering.udacity.com/handling-errors-like-a-pro-in-typescript-d7a314ad4991](https://engineering.udacity.com/handling-errors-like-a-pro-in-typescript-d7a314ad4991)<br>
