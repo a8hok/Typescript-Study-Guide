@@ -11,6 +11,8 @@
 ## Typescript NodeJS
 
 ## Typescript ReactJS
+- [https://thisweekinreact.com/newsletter/124](https://thisweekinreact.com/newsletter/124)<br>
+
 
 ## Typescript Trips and Tricks
 
