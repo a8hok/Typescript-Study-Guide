@@ -28,3 +28,6 @@
 
 ## Typescript error handling
 - [https://engineering.udacity.com/handling-errors-like-a-pro-in-typescript-d7a314ad4991](https://engineering.udacity.com/handling-errors-like-a-pro-in-typescript-d7a314ad4991)<br>
+
+## Typescript Unittesting
+- [https://www.thisdot.co/blog/testing-web-components-with-cypress-and-typescript](https://www.thisdot.co/blog/testing-web-components-with-cypress-and-typescript)<br>
