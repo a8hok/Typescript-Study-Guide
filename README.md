@@ -25,6 +25,7 @@ Table of Contents
 - [https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)<br>
 
 ## Typescript Youtube
+- [https://github.com/hiteshchoudhary/typescript-youtube-22](https://github.com/hiteshchoudhary/typescript-youtube-22)<br>
 
 ## Typescript NodeJS
 
