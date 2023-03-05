@@ -39,6 +39,7 @@ Table of Contents
 ## Typescript Trips and Tricks
 
 ## Typescript best practices
+- [https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd](https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd)<br>
 
 ## Typescript General
 - [https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)<br>
