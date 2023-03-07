@@ -18,6 +18,7 @@ Table of Contents
 ## Typescript Learn
 - [https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)<br>
 - [https://type-level-typescript.com/articles/making-generic-functions-pass-type-checking](https://type-level-typescript.com/articles/making-generic-functions-pass-type-checking)<br>
+- [https://wundergraph.com/blog/embracing_typesafety_with_prisma](https://wundergraph.com/blog/embracing_typesafety_with_prisma)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
