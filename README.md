@@ -32,6 +32,7 @@ Table of Contents
 - [https://github.com/hiteshchoudhary/typescript-youtube-22](https://github.com/hiteshchoudhary/typescript-youtube-22)<br>
 
 ## Typescript NodeJS
+ - [https://wundergraph.com/blog/never_write_openapi_specifications_again](https://wundergraph.com/blog/never_write_openapi_specifications_again)<br>
 
 ## Typescript ReactJS
 - [https://thisweekinreact.com/newsletter/124](https://thisweekinreact.com/newsletter/124)<br>
