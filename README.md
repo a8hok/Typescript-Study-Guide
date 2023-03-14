@@ -57,3 +57,7 @@ Table of Contents
 
 ## Typescript Unittesting
 - [https://www.thisdot.co/blog/testing-web-components-with-cypress-and-typescript](https://www.thisdot.co/blog/testing-web-components-with-cypress-and-typescript)<br>
+
+## Typescript Interview
+- [https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html](https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html)<br>
+
