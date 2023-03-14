@@ -20,6 +20,7 @@ Table of Contents
 - [https://type-level-typescript.com/articles/making-generic-functions-pass-type-checking](https://type-level-typescript.com/articles/making-generic-functions-pass-type-checking)<br>
 - [https://wundergraph.com/blog/embracing_typesafety_with_prisma](https://wundergraph.com/blog/embracing_typesafety_with_prisma)<br>
 - [https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)<br>
+- [https://dev.to/j471n/typescript-enums-7d6](https://dev.to/j471n/typescript-enums-7d6)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
