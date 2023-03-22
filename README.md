@@ -36,6 +36,7 @@ Table of Contents
 
 ## Typescript NodeJS
  - [https://wundergraph.com/blog/never_write_openapi_specifications_again](https://wundergraph.com/blog/never_write_openapi_specifications_again)<br>
+ - [https://devhoangkien.com/design-patterns-in-node-js-a-fun-typescript-adventure-8bf977c2549b](https://devhoangkien.com/design-patterns-in-node-js-a-fun-typescript-adventure-8bf977c2549b)<br>
 
 ## Typescript ReactJS
 - [https://thisweekinreact.com/newsletter/124](https://thisweekinreact.com/newsletter/124)<br>
