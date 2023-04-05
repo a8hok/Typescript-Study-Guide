@@ -35,6 +35,7 @@ Table of Contents
 - [https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)<br>
 - [https://coinsbench.com/build-a-decentralized-crud-application-using-typescript-react-and-db3-js-35948f84034e](https://coinsbench.com/build-a-decentralized-crud-application-using-typescript-react-and-db3-js-35948f84034e)<br>
 - [https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al](https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al)<br>
+- [https://www.thisdot.co/blog/web-scraping-with-typescript-and-node-js](https://www.thisdot.co/blog/web-scraping-with-typescript-and-node-js)<br>
 
 ## Typescript Youtube
 - [https://github.com/hiteshchoudhary/typescript-youtube-22](https://github.com/hiteshchoudhary/typescript-youtube-22)<br>
