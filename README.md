@@ -24,7 +24,7 @@ Table of Contents
 - [https://dev.to/codingleo/how-to-improve-typescript-code-with-the-satisfies-operator-j08](https://dev.to/codingleo/how-to-improve-typescript-code-with-the-satisfies-operator-j08)<br>
 - [https://dev.to/this-is-angular/function-overloading-in-typescript-53eb](https://dev.to/this-is-angular/function-overloading-in-typescript-53eb)<br>
 - [https://dev.to/thepassle/using-typescript-without-compilation-3ko4](https://dev.to/thepassle/using-typescript-without-compilation-3ko4)<br>
-- []()<br>
+- [https://devhoangkien.com/leveraging-typescript-to-improve-your-javascript-code-quality-ce0331c71f69](https://devhoangkien.com/leveraging-typescript-to-improve-your-javascript-code-quality-ce0331c71f69)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
