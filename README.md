@@ -27,6 +27,7 @@ Table of Contents
 - [https://devhoangkien.com/leveraging-typescript-to-improve-your-javascript-code-quality-ce0331c71f69](https://devhoangkien.com/leveraging-typescript-to-improve-your-javascript-code-quality-ce0331c71f69)<br>
 - [https://howtocrackit.com/javascript-to-typescript-beginners-guide-better-language/](https://howtocrackit.com/javascript-to-typescript-beginners-guide-better-language/)<br>
 - [https://treciaks.hashnode.dev/react-ing-to-typescript](https://treciaks.hashnode.dev/react-ing-to-typescript)<br>
+- [https://dev.to/swordheath/typescript-for-beginners-what-you-should-know-n0a](https://dev.to/swordheath/typescript-for-beginners-what-you-should-know-n0a)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
