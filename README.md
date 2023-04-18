@@ -31,6 +31,7 @@ Table of Contents
 - [https://github.com/angular-university/typescript-bootcamp](https://github.com/angular-university/typescript-bootcamp)<br>
 - [https://dev.to/arafat4693/best-ways-to-use-extract-in-typescript-jc2](https://dev.to/arafat4693/best-ways-to-use-extract-in-typescript-jc2)<br>
 - [https://blog.reactplay.io/mastering-typescript-a-comprehensive-guide-for-getting-started-with-typescript](https://blog.reactplay.io/mastering-typescript-a-comprehensive-guide-for-getting-started-with-typescript)<br>
+- [https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
