@@ -33,6 +33,7 @@ Table of Contents
 - [https://blog.reactplay.io/mastering-typescript-a-comprehensive-guide-for-getting-started-with-typescript](https://blog.reactplay.io/mastering-typescript-a-comprehensive-guide-for-getting-started-with-typescript)<br>
 - [https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)<br>
 - [https://www.sitepen.com/blog/update-the-definitive-typescript-guide](https://www.sitepen.com/blog/update-the-definitive-typescript-guide)<br>
+- [https://howtocrackit.com/tailwind-css-for-beginners-a-comprehensive-getting-started-guide/](https://howtocrackit.com/tailwind-css-for-beginners-a-comprehensive-getting-started-guide/)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
