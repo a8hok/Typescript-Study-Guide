@@ -83,3 +83,6 @@ Table of Contents
 ## Typescript Interview
 - [https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html](https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html)<br>
 
+## Typescript tools
+- [https://medium.com/@shaitu/how-to-migrate-from-javascript-to-typescript-using-the-ts-migrate-tool-c7936b676c99](https://medium.com/@shaitu/how-to-migrate-from-javascript-to-typescript-using-the-ts-migrate-tool-c7936b676c99)<br>
+
