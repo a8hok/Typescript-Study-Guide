@@ -35,6 +35,7 @@ Table of Contents
 - [https://www.sitepen.com/blog/update-the-definitive-typescript-guide](https://www.sitepen.com/blog/update-the-definitive-typescript-guide)<br>
 - [https://howtocrackit.com/tailwind-css-for-beginners-a-comprehensive-getting-started-guide/](https://howtocrackit.com/tailwind-css-for-beginners-a-comprehensive-getting-started-guide/)<br>
 - [https://medium.com/@amardeep.developper/type-alias-vs-interface-in-typescript-f97e4aad0276](https://medium.com/@amardeep.developper/type-alias-vs-interface-in-typescript-f97e4aad0276)<br>
+- [https://hackernoon.com/working-with-mapped-types-in-typescript?source=rss](https://hackernoon.com/working-with-mapped-types-in-typescript?source=rss)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
