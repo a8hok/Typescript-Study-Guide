@@ -37,6 +37,7 @@ Table of Contents
 - [https://medium.com/@amardeep.developper/type-alias-vs-interface-in-typescript-f97e4aad0276](https://medium.com/@amardeep.developper/type-alias-vs-interface-in-typescript-f97e4aad0276)<br>
 - [https://hackernoon.com/working-with-mapped-types-in-typescript?source=rss](https://hackernoon.com/working-with-mapped-types-in-typescript?source=rss)<br>
 - [https://dev.to/j471n/typescript-interface-3748](https://dev.to/j471n/typescript-interface-3748)<br>
+- [https://levelup.gitconnected.com/final-classes-in-typescript-f32c38378e23](https://levelup.gitconnected.com/final-classes-in-typescript-f32c38378e23)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
