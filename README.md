@@ -43,6 +43,7 @@ Table of Contents
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
 - [https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3](https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3)<br>
 - [https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg](https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg)<br>
+- [https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-rc/](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-rc/)<br>
 
 ## Typescript Projects
 - [https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)<br>
