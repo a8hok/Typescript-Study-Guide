@@ -95,3 +95,6 @@ Table of Contents
 ## Typescript tools
 - [https://medium.com/@shaitu/how-to-migrate-from-javascript-to-typescript-using-the-ts-migrate-tool-c7936b676c99](https://medium.com/@shaitu/how-to-migrate-from-javascript-to-typescript-using-the-ts-migrate-tool-c7936b676c99)<br>
 
+## Typescript with Mongodb
+- [https://hackernoon.com/handling-orm-free-data-access-layer-in-typescript-with-mongodb?source=rss](https://hackernoon.com/handling-orm-free-data-access-layer-in-typescript-with-mongodb?source=rss)<br>
+
