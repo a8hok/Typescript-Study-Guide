@@ -72,6 +72,7 @@ Table of Contents
 
 ## Typescript Trips and Tricks
   - [https://www.thisdot.co/blog/functional-programming-in-typescript-using-the-fp-ts-library-pipe-and-flow](https://www.thisdot.co/blog/functional-programming-in-typescript-using-the-fp-ts-library-pipe-and-flow)<br>
+  - [https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3](https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3)<br>
 
 ## Typescript best practices
 - [https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd](https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd)<br>
