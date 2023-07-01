@@ -101,3 +101,6 @@ Table of Contents
 ## Typescript with Mongodb
 - [https://hackernoon.com/handling-orm-free-data-access-layer-in-typescript-with-mongodb?source=rss](https://hackernoon.com/handling-orm-free-data-access-layer-in-typescript-with-mongodb?source=rss)<br>
 
+## Typescript coverage
+- [https://dev.to/mbarzeev/get-your-typescript-coverage-report-5c5p](https://dev.to/mbarzeev/get-your-typescript-coverage-report-5c5p)<br>
+
