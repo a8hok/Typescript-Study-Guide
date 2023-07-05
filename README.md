@@ -104,3 +104,6 @@ Table of Contents
 ## Typescript coverage
 - [https://dev.to/mbarzeev/get-your-typescript-coverage-report-5c5p](https://dev.to/mbarzeev/get-your-typescript-coverage-report-5c5p)<br>
 
+## Typescript Github
+- [https://github.com/gibbok/typescript-book#string-enums](https://github.com/gibbok/typescript-book#string-enums)<br>
+
