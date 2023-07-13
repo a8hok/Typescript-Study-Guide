@@ -53,6 +53,7 @@ Table of Contents
 - [https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al](https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al)<br>
 - [https://www.thisdot.co/blog/web-scraping-with-typescript-and-node-js](https://www.thisdot.co/blog/web-scraping-with-typescript-and-node-js)<br>
 - [https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/](https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/)<br>
+- [https://claritydev.net/blog/react-typescript-drag-drop-file-upload-guide](https://claritydev.net/blog/react-typescript-drag-drop-file-upload-guide)<br>
 
 ## Typescript Youtube
 - [https://github.com/hiteshchoudhary/typescript-youtube-22](https://github.com/hiteshchoudhary/typescript-youtube-22)<br>
