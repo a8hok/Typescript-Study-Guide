@@ -77,6 +77,7 @@ Table of Contents
   - [https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3](https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3)<br>
   - [https://www.freecodecamp.org/news/typescript-satisfies-operator/](https://www.freecodecamp.org/news/typescript-satisfies-operator/)<br>
   - [https://blog.openreplay.com/five-tips-to-improve-your-typescript-code/](https://blog.openreplay.com/five-tips-to-improve-your-typescript-code/)<br>
+  - [https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)<br>
 
 ## Typescript best practices
 - [https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd](https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd)<br>
