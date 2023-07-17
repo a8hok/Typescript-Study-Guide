@@ -58,6 +58,7 @@ Table of Contents
 ## Typescript Youtube
 - [https://github.com/hiteshchoudhary/typescript-youtube-22](https://github.com/hiteshchoudhary/typescript-youtube-22)<br>
 - [https://www.youtube.com/watch?v=aUnxIshEjGQ](https://www.youtube.com/watch?v=aUnxIshEjGQ)<br>
+- [https://www.youtube.com/@TypeScriptTV/videos](https://www.youtube.com/@TypeScriptTV/videos)<br>
 
 ## Typescript NodeJS
  - [https://wundergraph.com/blog/never_write_openapi_specifications_again](https://wundergraph.com/blog/never_write_openapi_specifications_again)<br>
