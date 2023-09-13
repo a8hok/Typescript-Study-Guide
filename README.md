@@ -42,6 +42,7 @@ Table of Contents
 - [https://blog.bitsrc.io/5-advanced-topics-in-typescript-that-confuses-new-developers-283f8958d1e](https://blog.bitsrc.io/5-advanced-topics-in-typescript-that-confuses-new-developers-283f8958d1e)<br>
 - [https://dev.to/this-is-learning/when-use-arrays-tuples-maps-and-sets-in-typescript-with-examples-57l6](https://dev.to/this-is-learning/when-use-arrays-tuples-maps-and-sets-in-typescript-with-examples-57l6)<br>
 - [https://fettblog.eu/advanced-typescript-guide/](https://fettblog.eu/advanced-typescript-guide/)<br>
+- [https://www.cosmicjs.com/blog/12-must-have-typescript-utility-types-with-uses-and-examples](https://www.cosmicjs.com/blog/12-must-have-typescript-utility-types-with-uses-and-examples)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
