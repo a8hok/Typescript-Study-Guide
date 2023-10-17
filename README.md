@@ -45,6 +45,7 @@ Table of Contents
 - [https://www.cosmicjs.com/blog/12-must-have-typescript-utility-types-with-uses-and-examples](https://www.cosmicjs.com/blog/12-must-have-typescript-utility-types-with-uses-and-examples)<br>
 - [https://dzone.com/articles/typescript-useful-features](https://dzone.com/articles/typescript-useful-features)<br>
 - [https://dzone.com/articles/types-vs-interfaces-in-typescript-making-the-right?ref=dailydev](https://dzone.com/articles/types-vs-interfaces-in-typescript-making-the-right?ref=dailydev)<br>
+- [https://www.totaltypescript.com/learn-typescript](https://www.totaltypescript.com/learn-typescript)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
