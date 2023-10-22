@@ -46,6 +46,7 @@ Table of Contents
 - [https://dzone.com/articles/typescript-useful-features](https://dzone.com/articles/typescript-useful-features)<br>
 - [https://dzone.com/articles/types-vs-interfaces-in-typescript-making-the-right?ref=dailydev](https://dzone.com/articles/types-vs-interfaces-in-typescript-making-the-right?ref=dailydev)<br>
 - [https://www.totaltypescript.com/learn-typescript](https://www.totaltypescript.com/learn-typescript)<br>
+- [https://www.codejourney.net/typescript-compiler-explained/?ref=dailydev](https://www.codejourney.net/typescript-compiler-explained/?ref=dailydev)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
