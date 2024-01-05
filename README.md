@@ -100,6 +100,7 @@ Table of Contents
 ## Typescript General
 - [https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)<br>
 - [https://blog.openreplay.com/forever-functional-complex-typing-in-typescript/](https://blog.openreplay.com/forever-functional-complex-typing-in-typescript/)<br>
+- [https://dev.to/alexanderop/mastering-typescript-looping-with-types-2f92?ref=dailydev](https://dev.to/alexanderop/mastering-typescript-looping-with-types-2f92?ref=dailydev)<br>
 
 ## Typescript Github
 - [https://codesandbox.io/s/github/ib-sundeep/amazon-clone/tree/master?file=/src/cart-context.js:1964-1972](https://codesandbox.io/s/github/ib-sundeep/amazon-clone/tree/master?file=/src/cart-context.js:1964-1972)<br>
