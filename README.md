@@ -128,3 +128,7 @@ Table of Contents
 ## Typescript Github
 - [https://github.com/gibbok/typescript-book#string-enums](https://github.com/gibbok/typescript-book#string-enums)<br>
 
+## Typescript Book
+- [https://typescript-book.vercel.app/books/4-table-of-contents/](https://typescript-book.vercel.app/books/4-table-of-contents/)<br>
+- []()<br>
+
