@@ -84,6 +84,7 @@ Table of Contents
 - [https://pmbanugo.me/using-typescript-in-react-part-1]()https://pmbanugo.me/using-typescript-in-react-part-1<br>
 - [https://www.freecodecamp.org/news/using-typescript-in-react-apps/](https://www.freecodecamp.org/news/using-typescript-in-react-apps/)<br>
 - [https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/](https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/)<br>
+- [https://github.com/juliencrn/usehooks-ts?ref=dailydev](https://github.com/juliencrn/usehooks-ts?ref=dailydev)<br>
 
 
 ## Typescript Trips and Tricks
