@@ -1,19 +1,26 @@
-# Typescript Preparation Links
+# Typescript Study Guide
 
 Table of Contents
 =================
-   * [Typescript Learn](#typescript-learn)
-   * [Typescript Resource](#typescript-resource)
-   * [Typescript Projects](#typescript-projects)
-   * [Typescript Youtube](#typescript-youtube)
-   * [Typescript NodeJS](#typescript-nodejs)
-   * [Typescript ReactJS](#typescript-reactjs)
-   * [Typescript Trips and Tricks](#typescript-trips-and-tricks)
-   * [Typescript best practices](#typescript-best-practices)
-   * [Typescript General](#typescript-general)
-   * [Typescript Github](#typescript-github)
-   * [Typescript error handling](#typescript-error-handling)
-   * [Typescript Unittesting](#typescript-unittesting)
+
+- [Typescript Learn](#typescript-learn)
+- [Typescript Resource](#typescript-resource)
+- [Typescript Projects](#typescript-projects)
+- [Typescript Youtube](#typescript-youtube)
+- [Typescript NodeJS](#typescript-nodejs)
+- [Typescript ReactJS](#typescript-reactjs)
+- [Typescript Trips and Tricks](#typescript-trips-and-tricks)
+- [Typescript best practices](#typescript-best-practices)
+- [Typescript General](#typescript-general)
+- [Typescript Github](#typescript-github)
+- [Typescript error handling](#typescript-error-handling)
+- [Typescript Unittesting](#typescript-unittesting)
+- [Typescript Interview](#typescript-interview)
+- [Typescript tools](#typescript-tools)
+- [Typescript with Mongodb](#typescript-with-mongodb)
+- [Typescript coverage](#typescript-coverage)
+- [Typescript Github](#typescript-github-1)
+- [Typescript Book](#typescript-book)
 
 ## Typescript Learn
 - [https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)<br>
