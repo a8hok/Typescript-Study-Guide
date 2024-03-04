@@ -140,3 +140,6 @@ Table of Contents
 - [https://typescript-book.vercel.app/books/4-table-of-contents/](https://typescript-book.vercel.app/books/4-table-of-contents/)<br>
 - []()<br>
 
+## Typescript Generics
+- [https://www.freecodecamp.org/news/how-typescript-generics-work/?ref=dailydev](https://www.freecodecamp.org/news/how-typescript-generics-work/?ref=dailydev)<br>
+
