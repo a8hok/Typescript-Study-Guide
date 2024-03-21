@@ -85,6 +85,7 @@ Table of Contents
  - [https://medium.com/before-semicolon/how-to-setup-a-typescript-nodejs-server-2023-16f3874f2ce5](https://medium.com/before-semicolon/how-to-setup-a-typescript-nodejs-server-2023-16f3874f2ce5)<br>
  - [https://medium.com/@ishahmeer/using-typescript-with-node-js-a-comprehensive-guide-cdfbfecf1ba3](https://medium.com/@ishahmeer/using-typescript-with-node-js-a-comprehensive-guide-cdfbfecf1ba3)<br>
  - [https://github.com/microsoft/TypeScript-Node-Starter/tree/master](https://github.com/microsoft/TypeScript-Node-Starter/tree/master)<br>
+ - [https://www.totaltypescript.com/typescript-and-node?ref=dailydev](https://www.totaltypescript.com/typescript-and-node?ref=dailydev)<br>
 
 ## Typescript ReactJS
 - [https://thisweekinreact.com/newsletter/124](https://thisweekinreact.com/newsletter/124)<br>
