@@ -73,6 +73,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/](https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/)<br>
 - [https://claritydev.net/blog/react-typescript-drag-drop-file-upload-guide](https://claritydev.net/blog/react-typescript-drag-drop-file-upload-guide)<br>
 - [https://www.freecodecamp.org/news/learn-typescript-for-practical-projects/?ref=dailydev](https://www.freecodecamp.org/news/learn-typescript-for-practical-projects/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/code-a-kirby-clone-with-typescript-and-kaboomjs/?ref=dailydev](https://www.freecodecamp.org/news/code-a-kirby-clone-with-typescript-and-kaboomjs/?ref=dailydev)<br>
 
 ## Typescript Youtube
 - [https://github.com/hiteshchoudhary/typescript-youtube-22](https://github.com/hiteshchoudhary/typescript-youtube-22)<br>
