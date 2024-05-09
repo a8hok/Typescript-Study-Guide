@@ -10,7 +10,7 @@ Table of Contents
 - [Typescript NodeJS](#typescript-nodejs)
 - [Typescript ReactJS](#typescript-reactjs)
 - [Typescript Trips and Tricks](#typescript-trips-and-tricks)
-- [Typescript best practices](#typescript-best-practices)
+- [Typescript Best practices](#typescript-best-practices)
 - [Typescript General](#typescript-general)
 - [Typescript Github](#typescript-github)
 - [Typescript error handling](#typescript-error-handling)
@@ -103,6 +103,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/typescript-satisfies-operator/](https://www.freecodecamp.org/news/typescript-satisfies-operator/)<br>
   - [https://blog.openreplay.com/five-tips-to-improve-your-typescript-code/](https://blog.openreplay.com/five-tips-to-improve-your-typescript-code/)<br>
   - [https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)<br>
+  - [https://dev.to/eatyourabstractions/typelevel-typescript-a-cheat-sheet-2d80?ref=dailydev](https://dev.to/eatyourabstractions/typelevel-typescript-a-cheat-sheet-2d80?ref=dailydev)<br>
 
 ## Typescript best practices
 - [https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd](https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd)<br>
