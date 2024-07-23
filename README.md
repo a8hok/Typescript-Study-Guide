@@ -57,6 +57,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/use-typescript-with-react/?ref=dailydev](https://www.freecodecamp.org/news/use-typescript-with-react/?ref=dailydev)<br>
 - [https://blog.openreplay.com/forever-functional-complex-typing-in-typescript-part-2/?ref=dailydev](https://blog.openreplay.com/forever-functional-complex-typing-in-typescript-part-2/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/benefits-of-typescript/](https://www.freecodecamp.org/news/benefits-of-typescript/)<br>
+- [https://itnext.io/essential-promise-utilities-for-javascript-9234cd9d3fdb](https://itnext.io/essential-promise-utilities-for-javascript-9234cd9d3fdb)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
