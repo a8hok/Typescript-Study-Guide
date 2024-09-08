@@ -118,6 +118,7 @@ Table of Contents
 - [https://blog.openreplay.com/forever-functional-complex-typing-in-typescript/](https://blog.openreplay.com/forever-functional-complex-typing-in-typescript/)<br>
 - [https://dev.to/alexanderop/mastering-typescript-looping-with-types-2f92?ref=dailydev](https://dev.to/alexanderop/mastering-typescript-looping-with-types-2f92?ref=dailydev)<br>
 - [https://markmaksi.hashnode.dev/master-typescript-generics?ref=dailydev](https://markmaksi.hashnode.dev/master-typescript-generics?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-typescript-interfaces-work/](https://www.freecodecamp.org/news/how-typescript-interfaces-work/)<br>
 
 ## Typescript Github
 - [https://codesandbox.io/s/github/ib-sundeep/amazon-clone/tree/master?file=/src/cart-context.js:1964-1972](https://codesandbox.io/s/github/ib-sundeep/amazon-clone/tree/master?file=/src/cart-context.js:1964-1972)<br>
