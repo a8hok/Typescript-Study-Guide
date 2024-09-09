@@ -67,6 +67,7 @@ Table of Contents
 - [https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-rc/](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-rc/)<br>
 - [https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/)<br>
 - [https://typescript.tv/hands-on/type-inference-type-annotations-in-typescript/](https://typescript.tv/hands-on/type-inference-type-annotations-in-typescript/)<br>
+- [https://behind.flatspot.pictures/advanced-typescript-cheatsheet-pt-1/?ref=dailydev](https://behind.flatspot.pictures/advanced-typescript-cheatsheet-pt-1/?ref=dailydev)<br>
 
 ## Typescript Projects
 - [https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)<br>
