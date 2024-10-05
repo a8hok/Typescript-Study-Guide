@@ -10,7 +10,7 @@ Table of Contents
 - [Typescript NodeJS](#typescript-nodejs)
 - [Typescript ReactJS](#typescript-reactjs)
 - [Typescript Trips and Tricks](#typescript-trips-and-tricks)
-- [Typescript Best practices](#typescript-best-practices)
+- [Typescript best practices](#typescript-best-practices)
 - [Typescript General](#typescript-general)
 - [Typescript Github](#typescript-github)
 - [Typescript error handling](#typescript-error-handling)
@@ -19,8 +19,11 @@ Table of Contents
 - [Typescript tools](#typescript-tools)
 - [Typescript with Mongodb](#typescript-with-mongodb)
 - [Typescript coverage](#typescript-coverage)
-- [Typescript Github](#typescript-github-1)
+- [Typescript Github](#typescript-github)
 - [Typescript Book](#typescript-book)
+- [Typescript Generics](#typescript-generics)
+- [Typescript vs Javascript](#typescript-vs-javascript)
+- [Typescript with reactjs](#typescript-with-reactjs)
 
 ## Typescript Learn
 - [https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)<br>
