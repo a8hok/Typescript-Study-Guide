@@ -63,6 +63,7 @@ Table of Contents
 - [https://itnext.io/essential-promise-utilities-for-javascript-9234cd9d3fdb](https://itnext.io/essential-promise-utilities-for-javascript-9234cd9d3fdb)<br>
 - [https://www.sitepoint.com/typescript-record-type-comprehensive-guide/?ref=dailydev](https://www.sitepoint.com/typescript-record-type-comprehensive-guide/?ref=dailydev)<br>
 - [https://webdeveloper.beehiiv.com/p/2024-09-11?ref=dailydev](https://webdeveloper.beehiiv.com/p/2024-09-11?ref=dailydev)<br>
+- [https://blog.sentry.io/atomic-repositories-in-clean-architecture-and-typescript/?ref=dailydev](https://blog.sentry.io/atomic-repositories-in-clean-architecture-and-typescript/?ref=dailydev)<br>
 
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
