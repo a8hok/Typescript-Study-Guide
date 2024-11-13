@@ -114,6 +114,7 @@ Table of Contents
   - [https://blog.openreplay.com/five-tips-to-improve-your-typescript-code/](https://blog.openreplay.com/five-tips-to-improve-your-typescript-code/)<br>
   - [https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)<br>
   - [https://dev.to/eatyourabstractions/typelevel-typescript-a-cheat-sheet-2d80?ref=dailydev](https://dev.to/eatyourabstractions/typelevel-typescript-a-cheat-sheet-2d80?ref=dailydev)<br>
+  - [https://jsdev.space/20-ts-tricks/?ref=dailydev](https://jsdev.space/20-ts-tricks/?ref=dailydev)<br>
 
 ## Typescript best practices
 - [https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd](https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd)<br>
