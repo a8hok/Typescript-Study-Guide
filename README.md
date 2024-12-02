@@ -65,6 +65,9 @@ Table of Contents
 - [https://webdeveloper.beehiiv.com/p/2024-09-11?ref=dailydev](https://webdeveloper.beehiiv.com/p/2024-09-11?ref=dailydev)<br>
 - [https://blog.sentry.io/atomic-repositories-in-clean-architecture-and-typescript/?ref=dailydev](https://blog.sentry.io/atomic-repositories-in-clean-architecture-and-typescript/?ref=dailydev)<br>
 
+## Typescript Advanced
+- [https://angularexperts.io/blog/advanced-typescript?ref=dailydev](https://angularexperts.io/blog/advanced-typescript?ref=dailydev)
+
 ## Typescript Resource
 - [https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage](https://portal.gitnation.org/contents/typescript-and-react-secrets-of-a-happy-marriage)<br>
 - [https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3](https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3)<br>
