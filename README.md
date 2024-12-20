@@ -175,4 +175,5 @@ Table of Contents
 ## Typescript with Reactjs
 - [https://weser.io/blog/clean-react-with-typescript?ref=dailydev](https://weser.io/blog/clean-react-with-typescript?ref=dailydev)<br>
 - [https://www.jacobparis.com/content/react-ts?ref=dailydev](https://www.jacobparis.com/content/react-ts?ref=dailydev)<br>
+- [https://blog.stackademic.com/typescript-in-react-6b6038f207ed](https://blog.stackademic.com/typescript-in-react-6b6038f207ed)<br>
 
