@@ -137,6 +137,7 @@ Table of Contents
 - [https://angularexperts.io/blog/advanced-typescript?ref=dailydev](https://angularexperts.io/blog/advanced-typescript?ref=dailydev)<br>
 - [https://dev.to/aelassas/functional-programming-in-typescript-575j?ref=dailydev](https://dev.to/aelassas/functional-programming-in-typescript-575j?ref=dailydev)<br>
 - [https://www.syncfusion.com/blogs/post/master-typescript-utility-types?ref=dailydev](https://www.syncfusion.com/blogs/post/master-typescript-utility-types?ref=dailydev)<br>
+- [https://dev.to/sem1colons/typescript-enums-not-magic-just-objects-4nio?ref=dailydev](https://dev.to/sem1colons/typescript-enums-not-magic-just-objects-4nio?ref=dailydev)<br>
 
 ## Typescript Github
 - [https://codesandbox.io/s/github/ib-sundeep/amazon-clone/tree/master?file=/src/cart-context.js:1964-1972](https://codesandbox.io/s/github/ib-sundeep/amazon-clone/tree/master?file=/src/cart-context.js:1964-1972)<br>
