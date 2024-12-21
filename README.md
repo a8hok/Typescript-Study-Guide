@@ -94,6 +94,7 @@ Table of Contents
 - [https://www.youtube.com/@TypeScriptTV/videos](https://www.youtube.com/@TypeScriptTV/videos)<br>
 - [https://www.youtube.com/watch?v=Av8ezg-2GWc](https://www.youtube.com/watch?v=Av8ezg-2GWc)<br>
 - [https://www.freecodecamp.org/news/learn-typescript-for-practical-projects/](https://www.freecodecamp.org/news/learn-typescript-for-practical-projects/)<br>
+- [https://www.youtube.com/watch?v=iJkaAJUzeWQ](https://www.youtube.com/watch?v=iJkaAJUzeWQ)<br>
 
 ## Typescript NodeJS
  - [https://wundergraph.com/blog/never_write_openapi_specifications_again](https://wundergraph.com/blog/never_write_openapi_specifications_again)<br>
