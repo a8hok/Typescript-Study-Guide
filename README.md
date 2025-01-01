@@ -179,3 +179,6 @@ Table of Contents
 - [https://www.jacobparis.com/content/react-ts?ref=dailydev](https://www.jacobparis.com/content/react-ts?ref=dailydev)<br>
 - [https://blog.stackademic.com/typescript-in-react-6b6038f207ed](https://blog.stackademic.com/typescript-in-react-6b6038f207ed)<br>
 
+## Typescript Types
+- [https://typescript.tv/hands-on/understanding-branded-types-in-typescript/?ref=dailydev](https://typescript.tv/hands-on/understanding-branded-types-in-typescript/?ref=dailydev)<br>
+
