@@ -171,6 +171,7 @@ Table of Contents
 
 ## Typescript Generics
 - [https://www.freecodecamp.org/news/how-typescript-generics-work/?ref=dailydev](https://www.freecodecamp.org/news/how-typescript-generics-work/?ref=dailydev)<br>
+- [https://dev.to/syncfusion/typescript-generics-a-complete-guide-3ie3?context=digest](https://dev.to/syncfusion/typescript-generics-a-complete-guide-3ie3?context=digest)<br>
 
 ## Typescript vs Javascript
 - [https://www.freecodecamp.org/news/basic-typescript-types/?ref=dailydev](https://www.freecodecamp.org/news/basic-typescript-types/?ref=dailydev)<br>
