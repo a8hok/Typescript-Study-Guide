@@ -128,6 +128,7 @@ Table of Contents
 - [https://dev.to/mbarzeev/get-your-typescript-coverage-report-5c5p](https://dev.to/mbarzeev/get-your-typescript-coverage-report-5c5p)<br>
 - [https://typescript.tv/hands-on/optimizing-typescript-configs-balancing-compilation-and-type-checking/?ref=dailydev](https://typescript.tv/hands-on/optimizing-typescript-configs-balancing-compilation-and-type-checking/?ref=dailydev)<br>
 - [https://dev.to/stephengade/typescript-best-practices-using-enums-311c?ref=dailydev](https://dev.to/stephengade/typescript-best-practices-using-enums-311c?ref=dailydev)<br>
+- [https://dev.to/shafayeat/how-to-secure-typescript-applications-5a27?ref=dailydev](https://dev.to/shafayeat/how-to-secure-typescript-applications-5a27?ref=dailydev)<br>
 
 ## Typescript General
 - [https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)<br>
