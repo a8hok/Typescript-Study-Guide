@@ -176,6 +176,7 @@ Table of Contents
 
 ## Typescript vs Javascript
 - [https://www.freecodecamp.org/news/basic-typescript-types/?ref=dailydev](https://www.freecodecamp.org/news/basic-typescript-types/?ref=dailydev)<br>
+- [https://www.htmlallthethings.com/blog-posts/why-is-typescript-better-than-javascript](https://www.htmlallthethings.com/blog-posts/why-is-typescript-better-than-javascript)<br>
 
 ## Typescript with Reactjs
 - [https://weser.io/blog/clean-react-with-typescript?ref=dailydev](https://weser.io/blog/clean-react-with-typescript?ref=dailydev)<br>
