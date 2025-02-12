@@ -122,6 +122,7 @@ Table of Contents
   - [https://dev.to/eatyourabstractions/typelevel-typescript-a-cheat-sheet-2d80?ref=dailydev](https://dev.to/eatyourabstractions/typelevel-typescript-a-cheat-sheet-2d80?ref=dailydev)<br>
   - [https://jsdev.space/20-ts-tricks/?ref=dailydev](https://jsdev.space/20-ts-tricks/?ref=dailydev)<br>
   - [https://dev.to/alisamir/best-practices-for-writing-clean-typescript-code-57hf?ref=dailydev](https://dev.to/alisamir/best-practices-for-writing-clean-typescript-code-57hf?ref=dailydev)<br>
+  - [https://dev.to/perisicnikola37/dont-use-typescript-types-like-this-use-map-pattern-instead-ki3?ref=dailydev](https://dev.to/perisicnikola37/dont-use-typescript-types-like-this-use-map-pattern-instead-ki3?ref=dailydev)<br>
 
 ## Typescript best practices
 - [https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd](https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd)<br>
