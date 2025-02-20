@@ -78,6 +78,7 @@ Table of Contents
 - [https://typescript.tv/hands-on/type-inference-type-annotations-in-typescript/](https://typescript.tv/hands-on/type-inference-type-annotations-in-typescript/)<br>
 - [https://behind.flatspot.pictures/advanced-typescript-cheatsheet-pt-1/?ref=dailydev](https://behind.flatspot.pictures/advanced-typescript-cheatsheet-pt-1/?ref=dailydev)<br>
 - [https://jsdev.space/mastering-adv-ts/?ref=dailydev](https://jsdev.space/mastering-adv-ts/?ref=dailydev)<br>
+- [https://medium.com/javarevisited/5-best-places-to-learn-typescript-in-2025-02633dba8fd2](https://medium.com/javarevisited/5-best-places-to-learn-typescript-in-2025-02633dba8fd2)<br>
 
 ## Typescript Projects
 - [https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)<br>
