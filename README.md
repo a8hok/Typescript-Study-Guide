@@ -91,6 +91,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/learn-typescript-for-practical-projects/?ref=dailydev](https://www.freecodecamp.org/news/learn-typescript-for-practical-projects/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/code-a-kirby-clone-with-typescript-and-kaboomjs/?ref=dailydev](https://www.freecodecamp.org/news/code-a-kirby-clone-with-typescript-and-kaboomjs/?ref=dailydev)<br>
 - [https://github.com/assistant-ui/assistant-ui?ref=dailydev](https://github.com/assistant-ui/assistant-ui?ref=dailydev)<br>
+- [https://dev.to/encore/build-a-production-ready-saas-application-44nb?ref=dailydev](https://dev.to/encore/build-a-production-ready-saas-application-44nb?ref=dailydev)<br>
 
 ## Typescript Youtube
 - [https://github.com/hiteshchoudhary/typescript-youtube-22](https://github.com/hiteshchoudhary/typescript-youtube-22)<br>
