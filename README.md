@@ -128,6 +128,7 @@ Table of Contents
   - [https://dev.to/alisamir/best-practices-for-writing-clean-typescript-code-57hf?ref=dailydev](https://dev.to/alisamir/best-practices-for-writing-clean-typescript-code-57hf?ref=dailydev)<br>
   - [https://dev.to/perisicnikola37/dont-use-typescript-types-like-this-use-map-pattern-instead-ki3?ref=dailydev](https://dev.to/perisicnikola37/dont-use-typescript-types-like-this-use-map-pattern-instead-ki3?ref=dailydev)<br>
   - [https://blog.logrocket.com/typescript-enum/?ref=dailydev](https://blog.logrocket.com/typescript-enum/?ref=dailydev)<br>
+  - [https://www.youtube.com/watch?v=hmrqTf4ReLw](https://www.youtube.com/watch?v=hmrqTf4ReLw)<br>
 
 ## Typescript best practices
 - [https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd](https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd)<br>
