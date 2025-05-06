@@ -80,6 +80,7 @@ Table of Contents
 - [https://jsdev.space/mastering-adv-ts/?ref=dailydev](https://jsdev.space/mastering-adv-ts/?ref=dailydev)<br>
 - [https://medium.com/javarevisited/5-best-places-to-learn-typescript-in-2025-02633dba8fd2](https://medium.com/javarevisited/5-best-places-to-learn-typescript-in-2025-02633dba8fd2)<br>
 - [https://devhints.io/typescript?ref=dailydev](https://devhints.io/typescript?ref=dailydev)<br>
+- [https://piccalil.li/blog/advanced-typescript-manipulation-features-for-the-real-world/?ref=dailydev](https://piccalil.li/blog/advanced-typescript-manipulation-features-for-the-real-world/?ref=dailydev)<br>
 
 ## Typescript Projects
 - [https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)<br>
