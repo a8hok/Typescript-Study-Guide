@@ -200,3 +200,6 @@ Table of Contents
 ## Typescript Types
 - [https://typescript.tv/hands-on/understanding-branded-types-in-typescript/?ref=dailydev](https://typescript.tv/hands-on/understanding-branded-types-in-typescript/?ref=dailydev)<br>
 
+## Typescript NodeJS
+- [https://blog.logrocket.com/running-typescript-node-js-tsx-vs-ts-node-vs-native/?ref=dailydev](https://blog.logrocket.com/running-typescript-node-js-tsx-vs-ts-node-vs-native/?ref=dailydev)<br>
+
