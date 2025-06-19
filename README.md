@@ -132,6 +132,7 @@ Table of Contents
   - [https://blog.logrocket.com/typescript-enum/?ref=dailydev](https://blog.logrocket.com/typescript-enum/?ref=dailydev)<br>
   - [https://www.youtube.com/watch?v=hmrqTf4ReLw](https://www.youtube.com/watch?v=hmrqTf4ReLw)<br>
   - [https://leapcell.io/blog/16-bad-typescript-habits-you-need-to-break?ref=dailydev](https://leapcell.io/blog/16-bad-typescript-habits-you-need-to-break?ref=dailydev)<br>
+  - [https://jsdev.space/typescript-advanced-types-balance/?ref=dailydev](https://jsdev.space/typescript-advanced-types-balance/?ref=dailydev)<br>
 
 ## Typescript best practices
 - [https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd](https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd)<br>
