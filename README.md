@@ -205,3 +205,6 @@ Table of Contents
 ## Typescript NodeJS
 - [https://blog.logrocket.com/running-typescript-node-js-tsx-vs-ts-node-vs-native/?ref=dailydev](https://blog.logrocket.com/running-typescript-node-js-tsx-vs-ts-node-vs-native/?ref=dailydev)<br>
 
+## Typescript RoadMap
+- [https://www.onepin.io/progress/A-visual-timeline-roadmap-to-master-TypeScirpt-%F0%9F%97%BA%EF%B8%8F-6824e0d2fc4e97f8af6c4e12](https://www.onepin.io/progress/A-visual-timeline-roadmap-to-master-TypeScirpt-%F0%9F%97%BA%EF%B8%8F-6824e0d2fc4e97f8af6c4e12)<br>
+
