@@ -137,6 +137,7 @@ Table of Contents
   - [https://leapcell.io/blog/16-bad-typescript-habits-you-need-to-break?ref=dailydev](https://leapcell.io/blog/16-bad-typescript-habits-you-need-to-break?ref=dailydev)<br>
   - [https://jsdev.space/typescript-advanced-types-balance/?ref=dailydev](https://jsdev.space/typescript-advanced-types-balance/?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/how-to-work-with-queues-in-typescript/?ref=dailydev](https://www.freecodecamp.org/news/how-to-work-with-queues-in-typescript/?ref=dailydev)<br>
+  - [https://tkdodo.eu/blog/omit-for-discriminated-unions-in-type-script?ref=dailydev](https://tkdodo.eu/blog/omit-for-discriminated-unions-in-type-script?ref=dailydev)<br>
 
 ## Typescript best practices
 - [https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd](https://blog.bitsrc.io/use-generics-in-typescript-to-improve-your-code-c7ef12b227fd)<br>
