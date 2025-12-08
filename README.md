@@ -157,6 +157,7 @@ Table of Contents
 - [https://www.syncfusion.com/blogs/post/master-typescript-utility-types?ref=dailydev](https://www.syncfusion.com/blogs/post/master-typescript-utility-types?ref=dailydev)<br>
 - [https://dev.to/sem1colons/typescript-enums-not-magic-just-objects-4nio?ref=dailydev](https://dev.to/sem1colons/typescript-enums-not-magic-just-objects-4nio?ref=dailydev)<br>
 - [https://devblogs.microsoft.com/typescript/typescript-native-port/?ref=dailydev](https://devblogs.microsoft.com/typescript/typescript-native-port/?ref=dailydev)<br>
+- [https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/?ref=dailydev](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/?ref=dailydev)<br>
 
 ## Typescript Github
 - [https://codesandbox.io/s/github/ib-sundeep/amazon-clone/tree/master?file=/src/cart-context.js:1964-1972](https://codesandbox.io/s/github/ib-sundeep/amazon-clone/tree/master?file=/src/cart-context.js:1964-1972)<br>
