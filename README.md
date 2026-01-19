@@ -66,6 +66,7 @@ Table of Contents
 - [https://blog.sentry.io/atomic-repositories-in-clean-architecture-and-typescript/?ref=dailydev](https://blog.sentry.io/atomic-repositories-in-clean-architecture-and-typescript/?ref=dailydev)<br>
 - [https://dev.to/jagroop2001/learn-typescript-from-a-to-z-3a11](https://dev.to/jagroop2001/learn-typescript-from-a-to-z-3a11)<br>
 - [https://app.daily.dev/posts/what-s-the-difference-between-type-and-interface-in-typescript--k7yr5ybi5](https://app.daily.dev/posts/what-s-the-difference-between-type-and-interface-in-typescript--k7yr5ybi5)<br>
+- [https://marmelab.com/blog/2025/12/04/typescript-type-as-a-programming-language.html?ref=dailydev](https://marmelab.com/blog/2025/12/04/typescript-type-as-a-programming-language.html?ref=dailydev)<br>
 
 ## Typescript Advanced
 - [https://angularexperts.io/blog/advanced-typescript?ref=dailydev](https://angularexperts.io/blog/advanced-typescript?ref=dailydev)
